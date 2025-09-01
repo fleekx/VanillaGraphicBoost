@@ -1,7 +1,4 @@
-# Note
-
-Original author of the addon is [Istox](https://forum.elysium-project.org/topic/44582-addon-vanillagraphicsboost-finetune-graphical-quality/).
-
+# VanillaGraphicBoost for Epoch 3.3.5a / Modified by Fleek
 
 # Before and After
 
@@ -10,3 +7,5 @@ Original author of the addon is [Istox](https://forum.elysium-project.org/topic/
 ![Before](https://i.imgur.com/eGEjtHZ.jpg) ![After](https://i.imgur.com/ThRFgEe.jpg)
 
 ![Before](https://i.imgur.com/Vbvml5V.jpg) ![After](https://i.imgur.com/hw54Hsv.jpg)
+
+Original author of the addon is [Istox](https://forum.elysium-project.org/topic/44582-addon-vanillagraphicsboost-finetune-graphical-quality/).
