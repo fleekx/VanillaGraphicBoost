@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: VanillaGraphicsBoost
+## Version: 1.01
+## Modified by: Fleek - Epoch WoW (Kezan)
+## Original Author: Steven "Istox" Shiers
+
+VanillaGraphicBoost.lua
